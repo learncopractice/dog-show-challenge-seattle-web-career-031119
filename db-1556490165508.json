@@ -1,10 +1,10 @@
 {
   "dogs": [
     {
-      "name": "Baybee",
+      "id": 1,
+      "name": "Baby",
       "breed": "Scottish Deerhound",
-      "sex": "male",
-      "id": 1
+      "sex": "male"
     },
     {
       "id": 2,
@@ -19,10 +19,10 @@
       "sex": "female"
     },
     {
-      "name": "Har-veigh",
+      "id": 4,
+      "name": "Harvey",
       "breed": "Irish Spaniel",
-      "sex": "male",
-      "id": 4
+      "sex": "male"
     },
     {
       "id": 5,
@@ -31,10 +31,10 @@
       "sex": "female"
     },
     {
-      "name": "Oreo Cookie",
+      "id": 6,
+      "name": "Oreo",
       "breed": "English Springer",
-      "sex": "male",
-      "id": 6
+      "sex": "male"
     },
     {
       "id": 7,
